@@ -1,6 +1,6 @@
 ## SQLite Full-text search demo
 
-This is the demo for full-text search feature in SQLite using the FTS4 module.
+This demo is created to showcase the full-text search feature in SQLite using the FTS4 module. Learn more about FTS in [this blog](https://frikishaan.com/blog/full-text-search-with-sqlite/).
 
 
 ## Setup

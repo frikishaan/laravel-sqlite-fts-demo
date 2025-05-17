@@ -44,7 +44,7 @@ php artisan migrate
 ### Populate the data in database
 
 Use the `load-db` command found in this project to populate the database from the csv content.
-Before running the command make sure the `$csv_path` variable is set to the path where your csv is located.
+Before running the command make sure the `$csv_path` variable in [this file](./app/Console/Commands/PopulateDatabase.php#L26) is set to the path where your csv is located.
 
 ```bash
 php artisan load-db

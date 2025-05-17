@@ -29,7 +29,7 @@ npm install && npm run build
 
 ### Download data
 
-In this demo I have used the Hackernews dataset, which can be found [here](#). It has more than 290K records, which is also nice to stress test the functionality.
+In this demo I have used the Hackernews dataset, which can be found [here](https://www.kaggle.com/datasets/hacker-news/hacker-news-posts). It has more than 290K records, which is also nice to stress test the functionality.
 
 Put the downloaded csv in the `storage/app/public` folder of your project.
 

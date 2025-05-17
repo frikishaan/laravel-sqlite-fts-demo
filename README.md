@@ -12,7 +12,7 @@ Use the following steps to setup the demo in your local environment.
 Clone the repository using the following command - 
 
 ```bash
-git clone <repo>
+git clone https://github.com/frikishaan/laravel-sqlite-fts-demo
 ```
 
 ### Install dependencies
@@ -58,7 +58,7 @@ Run the laravel in-built server using
 php artisan serve
 ```
 
-Navigate to the `/search' route.
+Navigate to the `/search` route.
 
 You should see the search results as seen below - 
 

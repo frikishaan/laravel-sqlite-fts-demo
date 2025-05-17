@@ -2,6 +2,7 @@
 
 This demo is created to showcase the full-text search feature in SQLite using the FTS4 module. Learn more about FTS in [this blog](https://frikishaan.com/blog/full-text-search-with-sqlite/).
 
+This demo uses Laravel + [Volt](https://livewire.laravel.com/docs/volt). 
 
 ## Setup
 
